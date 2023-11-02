@@ -1,5 +1,6 @@
 # Creditcard_Fraud_Prediction
 這是一個課餘參加的信用卡偵測比賽，使用機器學習預測盜刷卡行為
+將使用XGBClassifier 搭配 optuna 進行超參數調整來求得最好的分類模型，最後希望可以結合多個模型進行聯合投票學習獲得最佳分類成果
 
 比賽網址 : [AI CUP 2023 玉山人工智慧公開挑戰賽－信用卡冒用偵測](https://tbrain.nchc.org.tw/Competitions/Details/31)
 
